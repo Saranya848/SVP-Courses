@@ -1,7 +1,10 @@
 """Strings in python
-operations on Strings
-1.membership, strip,replace
-2.count,cases,start,end
+A.Slicing
+B.fstring
+C.escape
+D.operations on Strings
+ 1.membership, strip,replace
+ 2.count,cases,start,end
 """
 #Operations on strings - membership, strip, replace
 s1="python is more fun to learn"
@@ -17,3 +20,5 @@ print("fun" not in s1)
 
 #strip removings spaces in strings
 s2 = " Hello world, we love nature."
+
+
