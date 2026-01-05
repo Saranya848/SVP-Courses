@@ -1,0 +1,19 @@
+"""Strings in python
+operations on Strings
+1.membership, strip,replace
+2.count,cases,start,end
+"""
+#Operations on strings - membership, strip, replace
+s1="python is more fun to learn"
+
+#membership 
+#in
+print("python" in s1)
+print("q" in s1)
+
+#not in
+print("java" not in s1)
+print("fun" not in s1)
+
+#strip removings spaces in strings
+s2 = " Hello world, we love nature."
